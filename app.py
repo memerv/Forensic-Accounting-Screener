@@ -33,7 +33,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("📈 Ultimate Stock Analyzer Pro")
-st.markdown("ระบบวิเคราะห์การลงทุน 360 องศา (งบการเงิน + มูลค่า + ปัจจัยเชิงคุณภาพ)")
+st.markdown("ระบบวิเคราะห์การลงทุน (งบการเงิน + มูลค่า + ปัจจัยเชิงคุณภาพ)")
 
 top_50_companies = {
     "AAPL": "Apple Inc.", "MSFT": "Microsoft", "GOOGL": "Alphabet", 
