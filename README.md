@@ -1,2 +1,2 @@
 # Forensic-Accounting-Screener
-ในโลกจริง บริษัทอาจไม่ได้ให้ข้อมูลทางการเงินที่ตรงตามความจริง โปรเจกต์นี้ทำเพื่อตรวจจับที่ซ่อนอยู่ในตัวเลขแบบอัตโนมัติ ก่อนที่จะเอาเงินไปลงทุน
+In the real world, companies may not always provide accurate financial information. This project is designed to automatically detect hidden anomalies within financial data, helping you perform due diligence before making an investment.
